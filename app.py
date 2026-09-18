@@ -1,1 +1,1 @@
-print ("this is my fuck version")
+print ("this is my fuking version")
